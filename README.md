@@ -1,6 +1,6 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *Dance World*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tai Ta**
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
