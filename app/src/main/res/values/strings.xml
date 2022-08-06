@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example</string>
+    <string name="introText">Hello world! We\'re here to help you improve your dancing skill as well as your physical health.</string>
+    <string name="buttonText">Try Now</string>
+</resources>
